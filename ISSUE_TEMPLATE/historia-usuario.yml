@@ -9,8 +9,6 @@ body:
       label: Historia
       description: Como [quién], quiero [qué], para [por qué].
       placeholder: Como astrónomo aficionado, quiero comparar dos culturas, para entender cómo veían el cielo.
-    validations:
-      required: true
   - type: textarea
     id: criterios
     attributes:
@@ -19,12 +17,8 @@ body:
       placeholder: |
         - [ ] Criterio 1
         - [ ] Criterio 2
-    validations:
-      required: true
   - type: textarea
     id: notas
     attributes:
       label: Notas o dependencias
       description: Enlaces, decisiones previas o issues relacionados.
-    validations:
-      required: false
