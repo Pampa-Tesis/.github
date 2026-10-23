@@ -1,6 +1,7 @@
 name: Historia de usuario
 description: Funcionalidad vista desde quien la usa
 title: "feat: "
+labels: ["enhancement"]
 body:
   - type: textarea
     id: historia
@@ -10,7 +11,6 @@ body:
       placeholder: Como astrónomo aficionado, quiero comparar dos culturas, para entender cómo veían el cielo.
     validations:
       required: true
-
   - type: textarea
     id: criterios
     attributes:
@@ -21,7 +21,6 @@ body:
         - [ ] Criterio 2
     validations:
       required: true
-
   - type: textarea
     id: notas
     attributes:
