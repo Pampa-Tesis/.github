@@ -1,7 +1,6 @@
 name: Historia de usuario
 description: Funcionalidad vista desde quien la usa
 title: "feat: "
-labels: ["enhancement"]
 body:
   - type: textarea
     id: historia
