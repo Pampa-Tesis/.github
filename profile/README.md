@@ -10,3 +10,13 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+##Documentos de entrega
+### Memoria de TG
+### Plan de proyecto (SPMP)
+### Especificación de requerimientos (SRS)
+### Especificación del Diseño (SDD)
+### Propuesta de TG
+*Para proyectos que construyen un prototipo*
+ - Código fuente.
+ - Documento de control de calidad (descripción y resultados de las pruebas realizadas al prototipo).
+ - Otros documentos pertinentes dependiendo del proyecto.
