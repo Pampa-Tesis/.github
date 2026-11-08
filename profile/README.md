@@ -10,7 +10,7 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-##Documentos de entrega
+## Documentos de entrega
 ### Memoria de TG
 ### Plan de proyecto (SPMP)
 ### Especificación de requerimientos (SRS)
